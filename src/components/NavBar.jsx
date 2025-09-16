@@ -19,7 +19,7 @@ const NavBar = () => {
           </Link>
           <div className="pr-4 pl-4">
             <div className="text-xs xl:text-sm">Deliver to</div>
-            <div className="text-sm xl:text-base font-bold">Pakistan by Uzair Khan</div>
+            <div className="text-sm xl:text-base font-bold">Pakistan - DevSecOps Demo</div>
           </div>
         </div>
         {/* Middle */}
